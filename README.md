@@ -1,2 +1,2 @@
 # NetflixClone
-Clone de uma pagina do netflix pq sou foda p carai
+Clone de uma pagina do netflix 
